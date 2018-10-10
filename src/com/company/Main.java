@@ -17,3 +17,5 @@ public class Main {
 
     }
 }
+
+//meget flot kode hehe
